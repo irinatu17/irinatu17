@@ -1,5 +1,5 @@
 ## Hey there, I'm Irina! 👋 &#128105;&#127995;&#8205;&#128187;
-I'm a Junior Full Stack Software Developer based in Dublin, Ireland. Recently completed a Diploma in Full Stack Software Development in Code Institute.     
+I'm a Junior Full Stack Software Developer based in Dublin. Recently completed a Diploma in Full Stack Software Development in Code Institute.     
 Welcome to my profile! :grinning:
 
 <!--
@@ -7,13 +7,13 @@ Welcome to my profile! :grinning:
 -->
 - 🌱 I’m currently learning Full Stack Development (at the moment - **React**)
 - 👯 I’m looking to collaborate on any cool project
-- 🥰 Enthusiastic about **travelling**, **music** and **learning languages**
+- 🥰 Enthusiastic about **travelling**, **music** and **learning new languages**
 - ⚡ I'm Open for **New Opportunities**!
 
 📫 You can reach me on: [LinkedIn](https://www.linkedin.com/in/irina-tushina-b14a31181/)
 
 ### &#x1f4c8; Github Status 
-[![Irina's github stats](https://github-readme-stats.vercel.app/api?username=irinatu17&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Irina's github stats](https://github-readme-stats.vercel.app/api?username=irinatu17&show_icons=true&theme=dracula&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
 ### 🔧 Technologies & Tools
  #### Programming Languages
 ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=FFFFFF)
