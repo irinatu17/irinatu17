@@ -1,13 +1,13 @@
 ## Hey there, I'm Irina! 👋 &#128105;&#127995;&#8205;&#128187;
-I'm a Full Stack Software Developer based in Dublin. Recently completed a Diploma in Full Stack Software Development in Code Institute.     
+I'm a Full Stack Software Developer based in Dublin. 
 Welcome to my profile! :grinning:
 
 <!--
 **irinatu17/irinatu17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🌱 I’m currently learning Full Stack Development (at the moment - **React**)
+- 🌱 I’m currently learning Full Stack Development (at the moment - **React** and **PHP**)
 - 👯 I’m looking to collaborate on any cool project
-- 🥰 Enthusiastic about **travelling**, **music** and **learning new languages**
+- 🥰 Enthusiastic about **travelling**, **playing music**, **hiking** and **learning new languages**
 - ⚡ I'm Open for **New Opportunities**!
 
 📫 You can reach me on: [LinkedIn](https://www.linkedin.com/in/irina-tushina/)
@@ -44,3 +44,9 @@ Welcome to my profile! :grinning:
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS%20-%23232F3E.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=FF9900)
 ![Heroku](https://img.shields.io/badge/Heroku%20-%23430098.svg?&style=for-the-badge&logo=Heroku&logoColor=FFFFFF)
 ![Travis CI](https://img.shields.io/badge/Travis%20CI%20-%232B2F33.svg?&style=for-the-badge&logo=travis)
+
+### Recent Projects
+1.  <strong>Milestone 4 - Art of Tea: </strong><a href="https://github.com/irinatu17/Art-of-Tea" alt="Art of Tea Repo" target="_blank">📋 Repo</a> | <a href="https://art-of-tea.herokuapp.com/" alt="Art of Tea website" target="_blank"> 🖥 Live Website</a>
+2.  <strong>Milestone 3 - My CookBook: </strong><a href="https://github.com/irinatu17/MyCookBook" alt="My CookBook Repo" target="_blank">📋 Repo</a> | <a href="https://mycookbook-project.herokuapp.com/" alt="My CookBook website" target="_blank">🖥 Live Website</a>
+3.  <strong>Milestone 2 - Holiday Planner: </strong><a href="https://github.com/irinatu17/Holiday-Planner" alt="Holiday Planner Repo" target="_blank">📋 Repo</a> | <a href="https://irinatu17.github.io/Holiday-Planner/" alt="Holiday Planner website" target="_blank">🖥 Live Website</a>
+4.  <strong>Milestone 1 - Portishead: </strong><a href="https://github.com/irinatu17/Portishead" alt="Portishead Repo" target="_blank">📋 Repo</a> | <a href="https://irinatu17.github.io/Portishead/" alt="Portishead website" target="_blank">🖥 Live Website</a>
