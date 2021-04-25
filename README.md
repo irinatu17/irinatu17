@@ -30,7 +30,6 @@ Welcome to my profile! :grinning:
 ![Materialize](https://img.shields.io/badge/Materialize%20-%23EE6E73.svg?&style=for-the-badge&logo=Materialize&logoColor=FFFFFF)
 ![jQuery](https://img.shields.io/badge/jQuery%20-%231E2E3B.svg?&style=for-the-badge&logo=jQuery&logoColor=21ACE2)
 ![D3.js](https://img.shields.io/badge/D3.js%20-%23BD5350.svg?&style=for-the-badge&logo=D3.js&logoColor=F9A03C)
-![NodeJS](https://img.shields.io/badge/Nodejs%20-%228B22.svg?&style=for-the-badge&logo=Node.js&logoColor=000)
 ![React](https://img.shields.io/badge/React%20-%231572B6.svg?&style=for-the-badge&logo=React&logoColor=CCC)
 
 #### Databases
