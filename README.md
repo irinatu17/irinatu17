@@ -5,7 +5,7 @@ Welcome to my profile! :grinning:
 <!--
 **irinatu17/irinatu17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🌱 I’m currently learning Full Stack Development (at the moment - **Vue** and **PHP**)
+- 🌱 I’m currently learning **React**
 - 👯 I’m looking to collaborate on any cool project
 - 🥰 Enthusiastic about **travelling**, **playing music**, **hiking** and **learning new languages**
 - ⚡ I'm Open for **New Opportunities**!
