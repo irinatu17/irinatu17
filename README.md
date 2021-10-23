@@ -46,9 +46,3 @@ Welcome to my profile! :grinning:
 ![Heroku](https://img.shields.io/badge/Heroku%20-%23430098.svg?&style=for-the-badge&logo=Heroku&logoColor=FFFFFF) 
 ![Travis CI](https://img.shields.io/badge/Travis%20CI%20-%232B2F33.svg?&style=for-the-badge&logo=travis) 
 ![Stripe](https://img.shields.io/badge/Stripe%20-%23646EDE.svg?&style=for-the-badge&logo=Stripe&logoColor=FFFFFF) 
-
-### Recent Projects
-1.  <strong>Milestone 4 - Art of Tea: </strong><a href="https://github.com/irinatu17/Art-of-Tea" alt="Art of Tea Repo" target="_blank">📋 Repo</a> | <a href="https://art-of-tea.herokuapp.com/" alt="Art of Tea website" target="_blank"> 🖥 Live Website</a>
-2.  <strong>Milestone 3 - My CookBook: </strong><a href="https://github.com/irinatu17/MyCookBook" alt="My CookBook Repo" target="_blank">📋 Repo</a> | <a href="https://mycookbook-project.herokuapp.com/" alt="My CookBook website" target="_blank">🖥 Live Website</a>
-3.  <strong>Milestone 2 - Holiday Planner: </strong><a href="https://github.com/irinatu17/Holiday-Planner" alt="Holiday Planner Repo" target="_blank">📋 Repo</a> | <a href="https://irinatu17.github.io/Holiday-Planner/" alt="Holiday Planner website" target="_blank">🖥 Live Website</a>
-4.  <strong>Milestone 1 - Portishead: </strong><a href="https://github.com/irinatu17/Portishead" alt="Portishead Repo" target="_blank">📋 Repo</a> | <a href="https://irinatu17.github.io/Portishead/" alt="Portishead website" target="_blank">🖥 Live Website</a>
